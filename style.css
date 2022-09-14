@@ -1,0 +1,44 @@
+
+body{
+    background-image: url("1.jpg")
+}
+
+img{
+   width: 320px;
+   padding: 10px;
+   margin: 0;
+   display: block;
+   border: 5px solid blanchedalmond;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 25px;
+}
+
+.name{
+    color: white;
+}
+.name img{
+    border: none;
+}
+.principle{
+    color: white;
+}
+.princiexplain{
+    color: white;
+}
+
+
+.h1{
+    color: yellow;
+    padding-left: 100px;font-weight: bold;font-size: 20px
+    
+}
+.h2{
+    color: white;
+}
+.prename{
+    color: white;
+}
+.precautions{
+    color: white;
+}
